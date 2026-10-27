@@ -14,6 +14,8 @@ Originally, the mount used an **A&I GOTO SYSTEM** controller. In **2026**, this 
 
 ## Historical Context & Specifications
 
+![AVR-3 initial state](<docs/images/AVR-3_initial_state.jpg>)
+
 *   **Telescope:** AVR-3 (Astronomical Visual Refractor 3)
 *   **Optical Design:** Achromatic Refractor
 *   **Aperture:** 130 mm
@@ -58,3 +60,5 @@ The core philosophy of this modernization is to **automate the mount without per
 *   **Wireless Joystick:** Firmware and description are kept in a separate repository.
 *   **Dome Controller:** Firmware for autonomous observatory dome rotation is under development.
 *   **Configuration:** OnStepX configuration files, pin mappings, and calibration notes will be documented in this repository.
+
+![AVR-3 current state](<docs/images/AVR-3_current_state.jpg>)
