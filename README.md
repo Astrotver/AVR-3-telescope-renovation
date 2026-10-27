@@ -10,7 +10,7 @@ The primary goal of this project is **not** to turn the instrument into a museum
 
 The core concept of this project is **mount control without requiring a computer**: switch it on and start observing. The system is intended to be autonomous and operator-friendly, so that a teacher or outreach volunteer can power up the telescope and use it without a PC, laptop, or external software stack.
 
-Originally, the mount used an **A&I GOTO SYSTEM** controller. In **2026**, this controller was replaced by a homemade **OnStepX** system based on a **BTT SKR Pro V1.2** board. This change better matches the standalone “turn it on and work” philosophy while keeping the system open, serviceable, and well documented.
+Originally, the mount used an **A&I GOTO SYSTEM** controller. In **2026**, this controller was replaced by a homemade [**OnStepX**](https://github.com/hjd1964/OnStepX) system based on a [**BTT SKR Pro V1.2**](https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1/tree/master/SKR-PRO-V1.2) board. This change better matches the standalone “turn it on and work” philosophy while keeping the system open, serviceable, and well documented.
 
 ## Historical Context & Specifications
 
@@ -34,7 +34,7 @@ The core philosophy of this modernization is to **automate the mount without per
 3.  **Control System:** The mount is controlled by a homemade **OnStepX** system running on a **BTT SKR Pro V1.2** board. This replaced the earlier **A&I GOTO SYSTEM** in **2026**. The controller drives stepper motors on both axes and provides standalone GoTo and tracking operation without a PC.
 4.  **Wireless Joystick:** A wireless joystick has been added for convenient manual control of the mount. Its description and firmware are maintained in a **separate repository**.
 5.  **Wiring:** The original electrical collector rings on the axes are being repurposed to transmit power to the Dec motor, illumination of graduated circles and powering equipment near focuser, eliminating the need for external wires that could snag during slewing.
-6.  **Bearings:** A high-precision cross-roller bearing (**THK RE15025**) is planned for use in the Dec axis to support the new worm gear assembly, ensuring smooth rotation under varying loads.
+6.  **Bearings:** A high-precision cross-roller bearing (**THK RE15025**) used in the Dec axis to support the new worm gear assembly, ensuring smooth rotation under varying loads.
 7.  **Dome Rotation:** Work is ongoing on an **autonomous controller for observatory dome rotation**, intended to integrate with the standalone control philosophy of the telescope mount.
 
 ## Hardware Components
