@@ -10,7 +10,7 @@ The primary goal of this project is **not** to turn the instrument into a museum
 
 The core concept of this project is **mount control without requiring a computer**: switch it on and start observing. The system is intended to be autonomous and operator-friendly, so that a teacher or outreach volunteer can power up the telescope and use it without a PC, laptop, or external software stack.
 
-Originally, the mount used an **A&I GOTO SYSTEM** controller. In **2026**, this controller was replaced by a homemade [**OnStepX**](https://github.com/hjd1964/OnStepX) system based on a [**BTT SKR Pro V1.2**](https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1/tree/master/SKR-PRO-V1.2) board. This change better matches the standalone “turn it on and work” philosophy while keeping the system open, serviceable, and well documented.
+At the initial stage, an **A&I GOTO SYSTEM** controller was used, which had been kindly provided to the project by its developers. In **2026**, this controller was replaced by a homemade [**OnStepX**](https://github.com/hjd1964/OnStepX) system based on a [**BTT SKR Pro V1.2**](https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1/tree/master/SKR-PRO-V1.2) board. This change better matches the standalone “turn it on and work” philosophy while keeping the system open, serviceable, and well documented.
 
 ## Historical Context & Specifications
 
