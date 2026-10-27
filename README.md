@@ -32,7 +32,7 @@ The core philosophy of this modernization is to **automate the mount without per
 ### Key Modifications
 
 1.  **RA Axis:** The existing worm drive is retained. A stepper motor is coupled to the worm shaft to provide motorized tracking and GoTo functionality.
-2.  **Dec Axis:** The original micrometer screw is replaced or supplemented by a new worm gear system. A major challenge is the integration of this new worm gear without cutting the original brake drum, which is an integral part of the mount’s casting. Alternative designs are being explored to duplicate or bypass the drum while maintaining the manual brake function.
+2.  **Dec Axis:** The [original](docs/images/Dec_axis_initial_state.gif) micrometer screw is replaced or supplemented by a new worm gear system. A major challenge is the integration of this new worm gear without cutting the original brake drum, which is an integral part of the mount’s casting. It was decided to [install](docs/images/Dec_axis_modifications.gif) the worm gear above the drum.
 3.  **Control System:** The mount is controlled by a homemade **OnStepX** system running on a **BTT SKR Pro V1.2** board. This replaced the earlier **A&I GOTO SYSTEM** in **2026**. The controller drives stepper motors on both axes and provides standalone GoTo and tracking operation without a PC.
 4.  **Wireless Joystick:** A wireless joystick has been added for convenient manual control of the mount. Its description and firmware are maintained in a **separate repository**.
 5.  **Wiring:** The original electrical collector rings on the axes are being repurposed to transmit power to the Dec motor, illumination of graduated circles and powering equipment near focuser, eliminating the need for external wires that could snag during slewing.
