@@ -46,9 +46,9 @@ The core philosophy of this modernization is to **automate the mount without per
 | **Telescope** | AVR-3, 130 mm f/1950 refractor [(possibly 1958)](docs/images/Labels.jpg)|
 | **Mount** | APSh-4 [(possibly 1958)](docs/images/Labels.jpg)|
 | **Controller** | OnStepX on BTT SKR Pro V1.2 (2026+) |
-| **Previous Controller** | A&I GOTO SYSTEM (used until 2026) |
+| **Previous Controller** | A&I GOTO SYSTEM (used until 2026) (currently used as a backup)|
 | **Motors** | [Stepper motors](docs/electrical/23KM-K723-23V.pdf) on RA and Dec axes |
-| **Manual Control** | Wireless joystick (separate repository) |
+| **Manual Control** | Wireless joystick (will be in a separate repository) |
 | **Bearings** | THK RE15025 (cross-roller) for Dec axis |
 | **Worm Gear (Dec)** | Repurposed from a military artifact [(possibly FAU-2 related)](docs/images/FAU-2.jpg) |
 | **Dome Control** | Autonomous dome rotation controller — in development |
@@ -56,9 +56,12 @@ The core philosophy of this modernization is to **automate the mount without per
 ## Software & Firmware
 
 *   **Mount Firmware:** **OnStepX** running on a **BTT SKR Pro V1.2** board.
-*   **Control Mode:** Standalone operation. The mount can be powered on and used without a computer.
-*   **Wireless Joystick:** Firmware and description are kept in a separate repository.
+*   **Standalone operation:** The mount can be powered on and used without a computer.
+*   **Wireless Joystick:** Firmware and description will be in a separate repository.
+*   **Goto operation:** Via smartphone using [**SkySafari 6 Pro**](https://skysafariastronomy.com/) and [**TRITON GOTO**](https://tritongoto.com/)
 *   **Dome Controller:** Firmware for autonomous observatory dome rotation is under development.
 *   **Configuration:** OnStepX configuration files, pin mappings, and calibration notes will be documented in this repository.
 
 ![AVR-3 current state](<docs/images/AVR-3_current_state.jpg>)
+
+## [Stages of modernization](Disassembly.md)
