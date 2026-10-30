@@ -1,24 +1,24 @@
 ## Stages of renovation: observations
 
 **1960s,**
-Kalinin State University observatory, AVR-3 telescope:
+Kalinin State University observatory, AVR-3 telescope:\
 ![Observations](<docs/images/Observations_01.jpg>)
 
 **Present day,**
-Tver Palace of Children and Youth, same telescope:
+Tver Palace of Children and Youth, same telescope:\
 ![Observations](<docs/images/Observations_02.jpg>)
 
 
 **2013 October:**
 
-First light after renovation:
+First light after renovation:\
 ![Observations](<docs/images/Observations_03.jpg>)
 
 ![Observations](<docs/images/Observations_04.jpg>)
 
 **Solar eclipse 2015/03/20:**
 
-![Observations](<docs/images/Observations_05.jpg>)
+![Observations](<docs/images/Observations_05.jpg>)\
 Image by Alexander Belyakov
 
 **Various observations:**

@@ -10,20 +10,20 @@
 
 ![Disassembly](<docs/images/Disassembly_02.jpg>)
 
-Dec axis with collector rings, bearing and concentric gears:
+Dec axis with collector rings, bearing and concentric gears:\
 ![Disassembly](<docs/images/Disassembly_03.jpg>)
 
 ![Disassembly](<docs/images/Disassembly_04.jpg>)
 
-Dec-axis clamp brake:
+Dec-axis clamp brake:\
 ![Disassembly](<docs/images/Disassembly_05.jpg>)
 
-Dec-axis fine-adjustment screw:
+Dec-axis fine-adjustment screw:\
 ![Disassembly](<docs/images/Disassembly_06.jpg>)
 
 ![Disassembly](<docs/images/Disassembly_07.jpg>)
 
-The column, mount and parts of the tube were stripped of old paint:
+The column, mount and parts of the tube were stripped of old paint:\
 ![Disassembly](<docs/images/Disassembly_08.jpg>)
 
 [**Painting**](Painting.md)

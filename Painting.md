@@ -8,7 +8,7 @@
 
 ![Painting](<docs/images/Painting_03.jpg>)
 
-RA axis drive housing (left):
+RA axis drive housing (left):\
 ![Painting](<docs/images/Painting_04.jpg>)
 
 ![Painting](<docs/images/Painting_05.jpg>)
@@ -21,7 +21,9 @@ RA axis drive housing (left):
 
 ![Painting](<docs/images/Painting_08.jpg>)
 
-**2013 November:** Dec axis drive housing:
+**2013 November:**
+
+Dec axis drive housing:\
 ![Painting](<docs/images/Painting_09.jpg>)
 
 [**Modifications**](Modifications.md)

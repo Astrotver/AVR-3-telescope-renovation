@@ -64,4 +64,4 @@ The core philosophy of this modernization is to **automate the mount without per
 
 ![AVR-3 current state](<docs/images/AVR-3_current_state.jpg>)
 
-## [Stages of modernization](Disassembly.md)
+## [Stages of renovation](Disassembly.md)

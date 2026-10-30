@@ -10,7 +10,7 @@ RA axis motor installed:\
 **2012 September:**
 
 The main set of bearings has arrived:\
-![Modifications](<docs/images/bearings.jpg>)
+![Modifications](<docs/images/Bearings.jpg>)
 
 ![Modifications](<docs/images/Modifications_03.jpg>)
 
