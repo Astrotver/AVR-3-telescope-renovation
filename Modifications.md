@@ -2,14 +2,14 @@
 
 **2012 August:**
 
-RA axis motor installed:
+RA axis motor installed:\
 ![Modifications](<docs/images/Modifications_01.jpg>)
 
 ![Modifications](<docs/images/Modifications_02.jpg>)
 
 **2012 September:**
 
-The main set of bearings has arrived:
+The main set of bearings has arrived:\
 ![Modifications](<docs/images/bearings.jpg>)
 
 ![Modifications](<docs/images/Modifications_03.jpg>)
@@ -18,13 +18,13 @@ The main set of bearings has arrived:
 
 ![Modifications](<docs/images/Modifications_04.jpg>)
 
-Bracket for worm:
+Bracket for worm:\
 ![Modifications](<docs/images/Modifications_05.jpg>)
 
 The main set of parts has been manufactured:
 ![Modifications](<docs/images/Modifications_06.jpg>)
 
-Let’s begin the assembly:
+Let’s begin the assembly:\
 ![Modifications](<docs/images/Modifications_07.jpg>)
 
 ![Modifications](<docs/images/Modifications_08.jpg>)
@@ -37,7 +37,7 @@ Let’s begin the assembly:
 
 ![Modifications](<docs/images/Modifications_12.jpg>)
 
-Alex brought the future housing for the Dec axis drive )):
+Alex brought the future housing for the Dec axis drive )):\
 ![Modifications](<docs/images/Modifications_13.jpg>)
 
 ![Modifications](<docs/images/Modifications_14.jpg>)
@@ -60,7 +60,7 @@ Alex brought the future housing for the Dec axis drive )):
 
 **2013 October:**
 
-Dec axis motor housing:
+Dec axis motor housing:\
 ![Modifications](<docs/images/Modifications_21.jpg>)
 
 ![Modifications](<docs/images/Modifications_22.jpg>)
