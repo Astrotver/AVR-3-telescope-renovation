@@ -6,7 +6,8 @@ Kalinin State University observatory, AVR-3 telescope:\
 
 **Present day,**
 Tver Palace of Children and Youth, same telescope:\
-![Observations](<docs/images/Observations_02.jpg>)
+![Observations](<docs/images/Observations_02.jpg>)\
+Image by Vyacheslav Oros
 
 
 **2013 October:**
